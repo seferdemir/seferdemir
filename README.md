@@ -94,12 +94,10 @@ I'm a software engineering enthusiast.
 
 <p>
     <a>
-    <img alt="Firebase" src ="https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black">
+    <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
     </a>
     <a>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-    </a>
-    <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
     </a>
     <a>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white">
@@ -134,8 +132,10 @@ I'm a software engineering enthusiast.
     <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft%20Azure-0089D6?&logo=microsoft-azure&logoColor=ffffff">
     </a>
     <a>
-    <a>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white">
+    </a>
+    <a>
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
     </a>
 </p>
 
@@ -176,11 +176,14 @@ I'm a software engineering enthusiast.
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=black" />
     </a>
     <a>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="TFS" src="https://img.shields.io/badge/TFS-0085cf?style=flat&logo=tfs&logoColor=white" />
     </a>
     <a>
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white">
-    </a>  
+    </a> 
+    <a>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </a>
     <a>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white">
     </a>
